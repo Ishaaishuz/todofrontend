@@ -29,9 +29,3 @@ Users can **register, log in**, and manage tasks with CRUD operations, filtering
 - **Backend:** REST API powered by Node.js, Express, and MongoDB Atlas
 - **Deployment:** Frontend & backend hosted on Render for high availability
 
----
-
-
-## Folder Structure
-
-
